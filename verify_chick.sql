@@ -1,0 +1,1 @@
+SELECT name, tagline, description FROM stalls WHERE id=2;

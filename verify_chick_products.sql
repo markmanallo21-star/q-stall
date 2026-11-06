@@ -1,0 +1,1 @@
+SELECT id, name, description, price, category FROM products WHERE stall_id=2 AND is_available=1 ORDER BY category, name;

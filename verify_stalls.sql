@@ -1,0 +1,1 @@
+SELECT id, name, tagline FROM stalls WHERE is_active=1;
